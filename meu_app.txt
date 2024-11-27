@@ -1,0 +1,4 @@
+2024-11-27 11:23:10.739 | INFO     | __main__:<module>:6 - Essa mensagem será salva no arquivo
+2024-11-27 11:23:25.875 | INFO     | __main__:<module>:6 - Essa mensagem será salva no arquivo
+2024-11-27 11:23:28.398 | INFO     | __main__:<module>:6 - Essa mensagem será salva no arquivo
+2024-11-27 11:23:31.194 | INFO     | __main__:<module>:6 - Essa mensagem será salva no arquivo
